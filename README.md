@@ -1,4 +1,4 @@
-# Graph Theory Algorithms Collection 🔗
+# Graph Theory Algorithms - BİL244 Graph Theory Project 🔗
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
