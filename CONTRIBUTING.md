@@ -185,14 +185,6 @@ All submissions go through code review:
 3. **Testing**: Functionality and performance validation
 4. **Documentation**: Accuracy and completeness
 
-## 📞 Getting Help
-
-If you need help with contributions:
-
-- Check existing issues and documentation
-- Ask questions in issue comments
-- Reach out to maintainers
-- Join community discussions
 
 ## 🏆 Recognition
 
